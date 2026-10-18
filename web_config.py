@@ -106,7 +106,7 @@ bgp {{ local_asn }}
 
 # Pengaturan Halaman Web
 st.set_page_config(page_title="Generator Config NAP", layout="wide")
-st.title("🌐 Program Generator Config Router NAP")
+st.title("🌐 Generator Aktivasi User IPT")
 st.markdown("---")
 
 # Membagi layar menjadi 2 kolom (Kiri: Form, Kanan: Hasil)
